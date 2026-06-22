@@ -1,0 +1,23 @@
+class Solution:
+    def reverseOnlyLetters(self, s: str) -> str:
+        i=0
+        j = len(s)-1
+        s = list(s)
+
+        while i<j:
+            if s[i].isalpha() and s[j].isalpha():
+                s[i],s[j] = s[j],s[i]
+                i+=1
+                j-=1
+            elif s[i].isalpha():
+                j-=1
+            elif s[j].isalpha():
+                i+=1
+            else:
+                i+=1
+                j-=1
+        temp = ''
+        for i in s:
+            temp += i
+        return temp
+        
