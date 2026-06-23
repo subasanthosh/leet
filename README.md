@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/subasanthosh/leet/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
