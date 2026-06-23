@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/subasanthosh/leet/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/subasanthosh/leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/subasanthosh/leet/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/subasanthosh/leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/subasanthosh/leet/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## String
