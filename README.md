@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/subasanthosh/leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
