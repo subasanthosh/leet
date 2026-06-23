@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/subasanthosh/leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/subasanthosh/leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/subasanthosh/leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/subasanthosh/leet/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/subasanthosh/leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## String
