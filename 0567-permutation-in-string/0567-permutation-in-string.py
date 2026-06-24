@@ -17,7 +17,7 @@ class Solution:
                 return True
             s2arr[ord(s2[i])-97]-=1
             s2arr[ord(s2[i+l])-97] += 1
-            print(s2arr)
+    
         
         return s2arr==s1arr
 
