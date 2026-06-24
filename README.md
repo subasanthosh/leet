@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/subasanthosh/leet/tree/master/1768-merge-strings-alternately) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/subasanthosh/leet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
+| [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/subasanthosh/leet/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/subasanthosh/leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/subasanthosh/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subasanthosh/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
