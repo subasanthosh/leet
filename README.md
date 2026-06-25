@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/subasanthosh/leet/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/subasanthosh/leet/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/subasanthosh/leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/subasanthosh/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subasanthosh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
