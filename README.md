@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subasanthosh/leet/tree/master/0268-missing-number) |
 ## Hash Table
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/subasanthosh/leet/tree/master/0980-unique-paths-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
