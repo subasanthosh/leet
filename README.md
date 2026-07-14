@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/subasanthosh/leet/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/subasanthosh/leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/subasanthosh/leet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/subasanthosh/leet/tree/master/0322-coin-change) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/subasanthosh/leet/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/subasanthosh/leet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
