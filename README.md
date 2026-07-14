@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/subasanthosh/leet/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/subasanthosh/leet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subasanthosh/leet/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/subasanthosh/leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/subasanthosh/leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subasanthosh/leet/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/subasanthosh/leet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subasanthosh/leet/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/subasanthosh/leet/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/subasanthosh/leet/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/subasanthosh/leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/subasanthosh/leet/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/subasanthosh/leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/subasanthosh/leet/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/subasanthosh/leet/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/subasanthosh/leet/tree/master/0518-coin-change-ii) |
