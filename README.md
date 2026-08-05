@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/subasanthosh/leet/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/subasanthosh/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/subasanthosh/leet/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/subasanthosh/leet/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/subasanthosh/leet/tree/master/1672-richest-customer-wealth) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/subasanthosh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/subasanthosh/leet/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/subasanthosh/leet/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
