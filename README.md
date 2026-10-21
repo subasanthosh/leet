@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/subasanthosh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
+| [0981-time-based-key-value-store](https://github.com/subasanthosh/leet/tree/master/0981-time-based-key-value-store) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/subasanthosh/leet/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/subasanthosh/leet/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/subasanthosh/leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/subasanthosh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/subasanthosh/leet/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/subasanthosh/leet/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/subasanthosh/leet/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/subasanthosh/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0981-time-based-key-value-store](https://github.com/subasanthosh/leet/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/subasanthosh/leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subasanthosh/leet/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/subasanthosh/leet/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
