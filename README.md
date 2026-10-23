@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/subasanthosh/leet/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/subasanthosh/leet/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/subasanthosh/leet/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/subasanthosh/leet/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/subasanthosh/leet/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/subasanthosh/leet/tree/master/0980-unique-paths-iii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/subasanthosh/leet/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
