@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/subasanthosh/leet/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/subasanthosh/leet/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 | [0821-shortest-distance-to-a-character](https://github.com/subasanthosh/leet/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/subasanthosh/leet/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/subasanthosh/leet/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/subasanthosh/leet/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/subasanthosh/leet/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/subasanthosh/leet/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/subasanthosh/leet/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/subasanthosh/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subasanthosh/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subasanthosh/leet/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/subasanthosh/leet/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/subasanthosh/leet/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/subasanthosh/leet/tree/master/1207-unique-number-of-occurrences) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subasanthosh/leet/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/subasanthosh/leet/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
