@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subasanthosh/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/subasanthosh/leet/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/subasanthosh/leet/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/subasanthosh/leet/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/subasanthosh/leet/tree/master/0168-excel-sheet-column-title) |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/subasanthosh/leet/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/subasanthosh/leet/tree/master/0040-combination-sum-ii) |
 | [0980-unique-paths-iii](https://github.com/subasanthosh/leet/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/subasanthosh/leet/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/subasanthosh/leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/subasanthosh/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subasanthosh/leet/tree/master/0064-minimum-path-sum) |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/subasanthosh/leet/tree/master/0621-task-scheduler) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/subasanthosh/leet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
